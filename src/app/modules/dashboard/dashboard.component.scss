@@ -1,0 +1,75 @@
+.stats-cards {
+  .mat-card {
+    overflow: hidden;
+  }
+}
+
+table {
+  width: 100%;
+}
+
+body {
+	overflow: hidden;
+}
+.window {
+  width:200px;
+  height: 200px;
+  background-color: white;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  z-index: 10;
+}
+.clickdiv {
+  float: left;
+  border: 1px solid green;
+  padding: 5px;
+  cursor: pointer;
+}
+.counter {
+  margin-top: 60px;
+}
+/* #pane {
+	position: absolute;
+	width: 45%;
+	height: 45%;
+	top: 20%;
+	left: 20%;
+	
+	
+	margin: 0;
+	padding: 0;
+	z-index: 99;
+	border: 2px solid purple;
+	background: #fefefe;
+}
+
+#title {
+	font-family: monospace;
+	background: purple;
+	color: white;
+	font-size: 24px;
+	height: 30px;
+	text-align: center;
+}
+
+#ghostpane {
+	background: #999;
+	opacity: 0.2;
+
+	width: 45%;
+	height: 45%;
+	top: 20%;
+	left: 20%;
+	
+	position: absolute;
+	margin: 0;
+	padding: 0;
+	z-index: 98;
+
+	-webkit-transition: all 0.25s ease-in-out;
+	-moz-transition: all 0.25s ease-in-out;
+	-ms-transition: all 0.25s ease-in-out;
+	-o-transition: all 0.25s ease-in-out;
+	transition: all 0.25s ease-in-out;
+} */
